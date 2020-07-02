@@ -28,5 +28,7 @@ Maple is a third year Engineering student with the intention of becoming a Compu
 Ranbir Makkar (rmakkar@sfu.ca) - Quality Assurance.
 
 Ranbir is a fourth year Computer Engineering student. He has a knowledge of various programming languages such as C, C++, Python, Matlab and VHDL. As a quality Assurance, he will be do his best to ensure the quality of the product and will always be present for any help. 
+
 Mirac Chen (miracc@sfu.ca) - Quality Assurance.
+
 Mirac is a fourth year computer engineering student who is proficient in mainly C++ and Python. He also likes to play with microcontrollers such as Arduino, and RaspberryPi. As quality assurance, he will spare no effort to detect defects and provide advices for this project. 
