@@ -16,6 +16,7 @@ Project for CMPT 275
 Ryan Lui (rclui@sfu.ca) - Project Manager.
 
 Ryan is a fourth year Computer Engineering student.  He is proficient in C++, and is confident in his debugging of code.  As Project Manager, he is confident that he will be able to lead, manage team resources in an orderly manner, and provide support where needed. 
+
 Harry Gong (harryg@sfu.ca) - Developer.
 
 Harry is a fourth year Computer Engineering student who has knowledge in C, C++, VHDL, and Python. Harry is a very responsible person and will strive to develop applications that are maintainable and adherent to project specifications. 
