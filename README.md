@@ -32,3 +32,7 @@ Ranbir is a fourth year Computer Engineering student. He has a knowledge of vari
 Mirac Chen (miracc@sfu.ca) - Quality Assurance.
 
 Mirac is a fourth year computer engineering student who is proficient in mainly C++ and Python. He also likes to play with microcontrollers such as Arduino, and RaspberryPi. As quality assurance, he will spare no effort to detect defects and provide advices for this project. 
+
+# Project Website
+
+https://sites.google.com/view/cmpt275-9
