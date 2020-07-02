@@ -11,7 +11,7 @@ who is capable of using a mobile device, can communicate with others, and requir
 
 Project for CMPT 275
 
-#Contributors
+# Contributors
 
 Ryan Lui (rclui@sfu.ca) - Project Manager.
 
